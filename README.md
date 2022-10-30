@@ -26,6 +26,10 @@ source ~/.bashrc
 sudo dnf install stella
 ```
 
+to see debugger mode, click backtick \` key.
+
+![debugger mode](./images/Screenshot_2022-10-30_15-44-37.png)
+
 ## Digital Binary System
 
 ### convert binary to hexadecimal
@@ -52,3 +56,4 @@ Loop:
 - https://dasm-assembler.github.io/
 - https://stella-emu.github.io/index.html
 - http://www.6502.org/tutorials/6502opcodes.html
+- https://marketplace.visualstudio.com/items?itemName=simondotm.beeb-vsc
